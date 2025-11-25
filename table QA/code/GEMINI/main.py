@@ -288,7 +288,7 @@ def normalize_table(table):
 
 
 ################################################################### REQUEST FUNCTIONS ############################################################################
-client = genai.Client(api_key="AIzaSyBKoG1ZXtcvNhyi-GUORAXxRDlwkQGQ8b4")
+client = genai.Client(api_key="your_API_key")
 def query_table_multiple(table_csv, questions):
     prompt = f"""You are an expert at reading CSV tables.
 
