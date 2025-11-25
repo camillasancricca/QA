@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f210d10-7938-45b1-8989-dbd180b88cfe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/table QA/answers/GEMINI/answers0_100_try_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/answers/GEMINI/answers0_100_try_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/answers/GEMINI/answers101_150.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/answers/GEMINI/answers151_200.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/answers/GEMINI/answers201_250.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/answers/GEMINI/answers251-327.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/answers/GPT/answers0_100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/answers/GPT/answers101_150.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/answers/GPT/answers_151_200.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/answers/GPT/answers_201_250.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/answers/GPT/answers_251_327.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/answers/mini_tests_results.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/answers/results.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GEMINI/0_100/answers_try_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GEMINI/0_100/answers_try_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GEMINI/100_150/answers100_150.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GEMINI/151-200/answers_151_200.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GEMINI/201_250/answers201_250.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GEMINI/251-327/answers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GEMINI/answers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GEMINI/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GEMINI/questions.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GEMINI/r_answers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GEMINI/tables.jsonl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GPT/answers0_100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GPT/answers_101_150.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GPT/answers_151_200.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GPT/answers_201_250.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GPT/answers_251_327.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GPT/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GPT/questions.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GPT/r_answers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/code/GPT/tables.jsonl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/dataset/answers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/dataset/from_101_to_150/answers_101_150.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/dataset/from_101_to_150/questions_101_150.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/dataset/from_101_to_150/tables_101_150.jsonl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/dataset/from_151_to_200/answers_151_200.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/dataset/from_151_to_200/questions_151_200.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/dataset/from_151_to_200/tables_151_200.jsonl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/dataset/from_201_to_250/answers_201_250.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/dataset/from_201_to_250/questions_201_250.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/dataset/from_201_to_250/tables_201_250.jsonl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/dataset/from_251_to_327/answers_251_327.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/dataset/from_251_to_327/questions_251_327.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/dataset/from_251_to_327/tables_251_327.jsonl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/dataset/questions.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/dataset/tables.jsonl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table QA/dataset/tables_cutted.jsonl" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="35xupstnaWXf5iOUWvI3DrN2rA3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/camillasancricca/PycharmProjects/QA/table QA/code/GPT",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/table QA/code/GPT" />
+      <recent name="$PROJECT_DIR$/table QA/code/GEMINI" />
+      <recent name="$PROJECT_DIR$/table QA/dataset" />
+      <recent name="$PROJECT_DIR$/table QA/answers" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f210d10-7938-45b1-8989-dbd180b88cfe" name="Changes" comment="" />
+      <created>1764064229919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764064229919</updated>
+      <workItem from="1764064231070" duration="1295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
