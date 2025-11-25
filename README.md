@@ -1,13 +1,11 @@
-- **`table QA`**:
-  - **`code`**:
-  - **`dataset`**:
-  - **`answers`**:
-- **`text-based QA`**:
-
-
-├── CLAPNQ/                    # Dataset samples and processed passages
-├── KEYCONCEPT/                # Key Concept Coverage extraction and outputs
-├── KEYWORDS/                  # Keyword & triple extraction for manipulations
-├── PLOTS/                     # Figures used in thesis results
-├── RESULTS/                   # Link to full experimental outputs and evaluation (Google Drive)
-├── TABLES/                    # Tables of aggregated results for analysis
+- **`table QA`**: 
+  - **`code`**: Code executed to run the experiments
+  - **`dataset`**: Dataset used to run the experiments
+  - **`answers`**: Answers given by the models with evaluation
+- **`text-based QA`**: Notebooks used to run the experiments
+  - **`CLAPNQ`**: Dataset samples and processed passages
+  - **`KEYCONCEPT`**: Key Concept Coverage extraction and outputs
+  - **`KEYWORDS`**: Keyword & triple extraction for manipulations
+  - **`PLOTS`**: Figures used in thesis results
+  - **`RESULTS`**: Link to full experimental outputs and evaluation
+  - **`TABLES`**: Tables of aggregated results for analysis
