@@ -1,0 +1,9 @@
+,GR_key_typo,GR_ran_typo,GR_remove,GR_swap,SYNT_shuffle_words,SYNT_verb_tense_errors,READ_complex_synonyms,READ_definition_insertion,READ_double_negation,INFDENS_dilute
+acc_median_final_50,-0.43,0.53,0.3,-1.1,-0.62,-1.33,-3.21,-0.64,2.72,-2.05
+acc_median_final_100,-0.9,1.56,-0.09,-2.22,-4.9,-2.68,-3.58,-1.42,2.94,-3.22
+comp_final_median_50,-3.38,-5.1,-1.17,-6.7,-2.4,-0.43,-3.01,-2.15,-1.66,0.25
+comp_final_median_100,-4.12,-4.61,-1.66,-6.45,-7.81,-0.31,-1.66,-1.66,-4.49,0.31
+key_concept_coverage_50,-1.9,-3.59,-1.8,-3.17,-4.01,0.53,-4.01,-0.95,5.6,1.37
+key_concept_coverage_100,-2.53,-4.22,-4.44,-4.01,-12.04,0.53,-4.96,-1.48,-0.95,0.84
+Conciseness_50,-10.12,-13.21,0.77,-17.4,-2.33,-0.97,-8.09,-6.26,-6.49,3.03
+Conciseness_100,-10.08,-8.09,0.63,-16.01,-5.56,-0.9,-3.06,-4.69,-6.89,6.22

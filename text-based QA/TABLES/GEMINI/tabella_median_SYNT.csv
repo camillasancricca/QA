@@ -1,0 +1,9 @@
+,SYNT_shuffle_words,SYNT_verb_tense_errors
+acc_median_final_50,0.8253132273051924,0.8194070340581671
+acc_median_final_100,0.7897891103367849,0.8082044094411566
+comp_final_median_50,0.794,0.81
+comp_final_median_100,0.75,0.811
+key_concept_coverage_50,0.909,0.952
+key_concept_coverage_100,0.833,0.952
+Conciseness_50,1.4675,1.488
+Conciseness_100,1.419,1.489

@@ -1,0 +1,9 @@
+,SYNT_shuffle_words,SYNT_verb_tense_errors
+acc_median_final_50,-0.62,-1.33
+acc_median_final_100,-4.9,-2.68
+comp_final_median_50,-2.4,-0.43
+comp_final_median_100,-7.81,-0.31
+key_concept_coverage_50,-4.01,0.53
+key_concept_coverage_100,-12.04,0.53
+Conciseness_50,-2.33,-0.97
+Conciseness_100,-5.56,-0.9

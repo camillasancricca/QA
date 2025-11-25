@@ -1,0 +1,9 @@
+,READ_complex_synonyms,READ_definition_insertion,READ_double_negation
+acc_median_final_50,0.7161331843576442,0.7221820366194868,0.7413999926782879
+acc_median_final_100,0.7027793202181403,0.7132309930962392,0.7361518457408779
+comp_final_median_50,0.699,0.7124999999999999,0.693
+comp_final_median_100,0.691,0.713,0.676
+key_concept_coverage_50,0.75,0.789,0.75
+key_concept_coverage_100,0.714,0.786,0.727
+Conciseness_50,1.533,1.5795,1.48
+Conciseness_100,1.521,1.6,1.4

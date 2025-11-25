@@ -1,0 +1,5 @@
+,GR_key_typo,GR_ran_typo,GR_remove,GR_swap,SYNT_shuffle_words,SYNT_verb_tense_errors,READ_complex_synonyms,READ_definition_insertion,READ_double_negation,INFDENS_dilute
+%DirectModifications_50,22.39,11.96,15.89,12.7,0.0,18.46,24.05,27.66,4.16,40.89
+%DirectModifications_100,30.57,14.32,22.25,20.3,0.0,32.28,31.38,35.02,7.71,55.32
+%Additions_50,31.77,36.68,34.98,28.86,29.84,28.66,28.83,27.06,26.73,27.09
+%Additions_100,35.36,41.02,38.75,30.67,34.3,27.73,28.9,26.18,24.13,26.07
